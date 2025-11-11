@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Enveloppe principale -->
+  <rect x="20" y="50" width="160" height="100" rx="5" fill="none" stroke="#e28e3a" stroke-width="3"/>
+  
+  <!-- Rabat arrière -->
+  <path d="M 20 50 L 100 110 L 180 50" fill="none" stroke="#e28e3a" stroke-width="3" stroke-linejoin="round"/>
+  
+  <!-- Rabat avant -->
+  <path d="M 20 50 L 100 110 L 180 50 L 100 50 Z" fill="none" stroke="#e28e3a" stroke-width="3" stroke-linejoin="round"/>
+</svg>
